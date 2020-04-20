@@ -1,3 +1,10 @@
 .form{
   width: 700px;
 }
+.introInfo {
+  color: white;
+  font-size: 400;
+  width: 50%;
+  margin: auto;
+  margin-top: 1em;
+}

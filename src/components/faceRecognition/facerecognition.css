@@ -6,7 +6,8 @@
   justify-content: center;
   cursor: pointer;
 }
-.k {
-margin-right: 50%;
-width: 50%;
+.imageBox {
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
 }
