@@ -1,5 +1,5 @@
 .form{
-  width: 700px;
+  width: 60%;
 }
 .introInfo {
   color: white;
@@ -7,4 +7,12 @@
   width: 50%;
   margin: auto;
   margin-top: 1em;
+}
+
+.form input{
+  width: 70%;
+}
+
+.form button{
+font-size: 1.4em;
 }
